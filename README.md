@@ -5,7 +5,7 @@ If you found an error in any Japanese Exclusive Channel and untranslated, Please
 
 If you're trying to open a Pull Request, Make sure you have
 - The Error untranslated (be sure to mark it as a type of error. (i.e "Internet Error", "Server Error"))
-- Where you found the error (i.e "Demae Channel", "Wii no ma")
-- Solution for that said Error
+- The Picture of the error (i.e "Demae Channel", "Wii no ma")
+- Solution for that said Error (if there's no solution to a specific error. Just put in "Solution: None so far", or if it is an error that can't be solved just put in "Solution: None")
 
 If you added an error that hasn't been added yet. You will be added to the Thank You pile.
