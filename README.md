@@ -6,6 +6,6 @@ If you found an error in any Japanese Exclusive Channel and untranslated, Please
 If you're trying to open a Pull Request, Make sure you have
 - The Error untranslated (Use [DeepL Translate](https://www.deepl.com/translator) when you are translating it) (be sure to mark it as a type of error. (i.e "Internet Error", "Server Error")
 - The Picture of the error
-- Solution for that said Error (if there's no solution found to a specific error. Just put in "Solution: None so far", if it is an error that can't be solved just put in "Solution: None")
+- Solution for that said Error (if there's no solution found yet. Just put in "Solution: None so far", if there's no solution found to a specific error. just put in "Solution: None")
 
 If you added an error that hasn't been added yet. You will be added to the Thank You pile.
