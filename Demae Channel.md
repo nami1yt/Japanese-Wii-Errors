@@ -6,6 +6,10 @@ ____
 - Solution: None so far
   ![Basket Error](https://github.com/nami1yt/Japanese-Wii-Errors/assets/135884307/a4490c53-4f17-4a43-b3a5-27a1e5ae20ab)
 ____
-I got in error that says "出前チャンネルのサービスは終了いたしました。今までご利用いただきありがとうございまし" (Discontinued Message)
+"出前チャンネルのサービスは終了いたしました。今までご利用いただきありがとうございまし" (Discontinued Message)
 - Solution: None
  ![Discontinued Error](https://github.com/nami1yt/Japanese-Wii-Errors/assets/135884307/b461d652-b13f-4292-95f8-6280878813b4)
+____
+"サーバーでエラーが発生しました。もう一度お試しください。" (Server Error)
+- Solution: None so far
+  ![Server Error](https://github.com/nami1yt/Japanese-Wii-Errors/assets/135884307/5f7c0315-0728-4ae2-ac67-0443d33573d5)
