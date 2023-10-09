@@ -7,3 +7,5 @@ If you're trying to open a Pull Request, Make sure you have
 - The Error untranslated (be sure to mark it as a type of error. (i.e "Internet Error", "Server Error"))
 - Where you found the error (i.e "Demae Channel", "Wii no ma")
 - Solution for that said Error
+
+If I added an error that hasn't been added yet. You will be added to the Thank You pile.
