@@ -8,4 +8,4 @@ If you're trying to open a Pull Request, Make sure you have
 - Where you found the error (i.e "Demae Channel", "Wii no ma")
 - Solution for that said Error
 
-If I added an error that hasn't been added yet. You will be added to the Thank You pile.
+If you added an error that hasn't been added yet. You will be added to the Thank You pile.
